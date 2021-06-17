@@ -418,7 +418,7 @@
 
 .smiles {
   height: auto;
-  background: var(--background-color);
+  background: var(--color-Black-Pearl);
 }
 
 .smiles .section-header {
@@ -490,7 +490,7 @@
 /* Footer  */
 
 .footer {
-  background-color: var(--background-color);
+  background-color: var(--color-Black-Pearl);
   height: 249px;
 }
 .footer .container {
