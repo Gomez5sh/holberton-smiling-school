@@ -505,16 +505,17 @@
   padding: 0;
 }
 
-.footer .social-item {
-  font-size: 30px;
-}
 .footer .social-item a {
-  color: var(--color-white);
-  text-decoration: none;
+  color: #000;
+  background: white;
+  font-size: 19px;
+  border-radius: 20px;
+  padding: 5px 8px;
 }
 
+
 .footer .twitter-icon {
-  padding: 0 20px;
+  padding: 0 40px;
 }
 
 .footer .trademark {
@@ -542,7 +543,7 @@
     padding-top: 50px;
     padding-bottom: 34px;
   }
-  .footer .social.nav {
+  .footer .social .nav {
     padding: 0px;
   }
   .footer .social {
