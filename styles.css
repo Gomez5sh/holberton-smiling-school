@@ -325,7 +325,7 @@
 .popular .section-header {
     padding-top: 87px;
     padding-bottom: 75px;
-    color: var(--background-color);
+    color: var(--color-Black-Pearl);
 }
 
 .section .card {
@@ -345,7 +345,7 @@
 .section .card-title {
     font-size: 16px;
     line-height: 20px;
-    color: var(--background-color);
+    color: var(--color-Black-Pearlolor);
 }
 
 .section .card-text {
@@ -714,14 +714,14 @@
     margin-top: 74px;
     font-size: 60px;
     font-weight: 300;
-    color: var(--background-color);
+    color: var(--color-Black-Pearl);
 }
 
 .faq .question h3 {
     font-size: 1rem;
     line-height: 20px;
     margin-bottom: 30px;
-    color: var(--background-color);
+    color: var(--color-Black-Pearl);
 }
 
 .faq .question p {
